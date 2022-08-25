@@ -7,3 +7,7 @@ git remote add origin https://github.com/chaithanya1812/firstrepository.git
 git push -u origin FIRSThello world
 i added few linweee
 dsssssk jjjjjjjjjjjjjjjjsdkjn sdkj     
+i love from chaithanya
+ram charan tej
+hhhhh
+from git command lins
